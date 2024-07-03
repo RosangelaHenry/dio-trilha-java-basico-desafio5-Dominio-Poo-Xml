@@ -1,5 +1,3 @@
-# dio-trilha-java-basico-desafio5-Dominio-Poo-Xml
-
 # Desafio de Projeto DIO - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 www.dio.me
 
